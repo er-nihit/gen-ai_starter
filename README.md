@@ -13,12 +13,4 @@ A Python assignment exploring lists, tuples, sets, and dictionaries with practic
 2. **Task 2**: Categories (Sets)
 3. **Task 3**: Product Pricing (Dictionaries)
 4. **Task 4**: Combined Operations
-
-## How to Run
-```bash
-conda activate tutedude
-jupyter notebook assignments/data_structures_assignment.ipynb
-```
-
----
-**Author**: Nihit Kumar | **Date**: February 2025
+s
