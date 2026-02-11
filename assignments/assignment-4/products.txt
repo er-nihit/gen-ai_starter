@@ -1,0 +1,3 @@
+Laptop | 60000
+Keyboard | 2000
+Mouse | 500
