@@ -4,13 +4,15 @@ A Python assignment exploring lists, tuples, sets, and dictionaries with practic
 
 ## Status
 ✅ Assignment 1 Complete
+✅ Assignment 2 Complete
+❎ Assignment 3 In progress
+✅ Assignment 4 Complete
+✅ Assignment 5 Complete
+
 
 ## Contents
-- `assignments/data_structures_assignment.ipynb` - Jupyter notebook with 4 tasks
+- `assignments/data_structures_assignment.ipynb` - Jupyter notebook which shows to working to basic data structures in python
+- `assignments/control_flow_assignment.ipynb` - Jupyter Notebook which shows Control Flow using if/else/elif and looping statements (for/while) 
+- `assignments/assignment-4/file_handling_assignment.ipynb` - Jupyter notebook which shows working of File Handling in python
+- `assignments/modules_assignment/main.py` - Python file which shows the working of modules and packages in python
 
-## Tasks
-1. **Task 1**: Product Collections (Lists and Tuples)
-2. **Task 2**: Categories (Sets)
-3. **Task 3**: Product Pricing (Dictionaries)
-4. **Task 4**: Combined Operations
-s
