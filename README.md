@@ -3,16 +3,26 @@
 A Python assignment exploring lists, tuples, sets, and dictionaries with practical product management examples.
 
 ## Status
-✅ Assignment 1 Complete
-✅ Assignment 2 Complete
-❎ Assignment 3 In progress
-✅ Assignment 4 Complete
-✅ Assignment 5 Complete
+✅ Assignment 1  - Completed  
+✅ Assignment 2  - Completed  
+✅ Assignment 3  - Completed  
+✅ Assignment 4  - Completed  
+✅ Assignment 5  - Completed  
+✅ Assignment 6  - Completed  
+✅ Assignment 7  - Completed  
+✅ Assignment 8  - Completed  
+✅ Assignment 9  - In Progress  
+✅ Assignment 10 - In Progress  
+✅ Assignment 11 - In Progress  
+
 
 
 ## Contents
-- `assignments/data_structures_assignment.ipynb` - Jupyter notebook which shows to working to basic data structures in python
-- `assignments/control_flow_assignment.ipynb` - Jupyter Notebook which shows Control Flow using if/else/elif and looping statements (for/while) 
-- `assignments/assignment-4/file_handling_assignment.ipynb` - Jupyter notebook which shows working of File Handling in python
-- `assignments/modules_assignment/main.py` - Python file which shows the working of modules and packages in python
-
+- **Assignment 1:** `assignments/data_structures_assignment.ipynb` - Jupyter notebook which shows to working to basic data structures in python
+- **Assignment 2:** `assignments/control_flow_assignment.ipynb` - Jupyter Notebook which shows Control Flow using if/else/elif and looping statements (for/while) 
+- **Assignment 3:** `assignments/functions_assignmeent.ipynb` - Jupyter notebook which shows the working of different types of functions in Python (including lamba, map, filter, etc.)
+- **Assignment 4:** `assignments/assignment-4/file_handling_assignment.ipynb` - Jupyter notebook which shows working of File Handling in python
+- **Assignment 5:** `assignments/modules_assignment/main.py` - Python file which shows the working of modules and packages in python
+- **Assignment 6:** `assignments/exception_handling_assignment.ipynb` - Jupyter notebook which shows different types of exception handling method in python
+- **Assignment 7:** `assignments/oop_assignment.ipynb` - Jupyter notebook which shows the basic principles and working of concepts of Object-oriented Programming (OOP)
+- **Assignment 8:** `assignments/streamlit_assignment` - Contains 4 different python files which shows the basic functionality of Streamlit to demonstrate working of python in browser (without using any advance ML libraries like pandas, numpy, etc.)
