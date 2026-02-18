@@ -3,15 +3,15 @@
 A Python assignment exploring lists, tuples, sets, and dictionaries with practical product management examples.
 
 ## Status
-✅ Assignment 1  - Completed  
-✅ Assignment 2  - Completed  
-✅ Assignment 3  - Completed  
-✅ Assignment 4  - Completed  
-✅ Assignment 5  - Completed  
-✅ Assignment 6  - Completed  
-✅ Assignment 7  - Completed  
-✅ Assignment 8  - Completed  
-✅ Assignment 9  - In Progress  
+✅ Assignment 01 - Completed  
+✅ Assignment 02 - Completed  
+✅ Assignment 03 - Completed  
+✅ Assignment 04 - Completed  
+✅ Assignment 05 - Completed  
+✅ Assignment 06 - Completed  
+✅ Assignment 07 - Completed  
+✅ Assignment 08 - Completed  
+✅ Assignment 09 - Completed  
 ✅ Assignment 10 - In Progress  
 ✅ Assignment 11 - In Progress  
 
