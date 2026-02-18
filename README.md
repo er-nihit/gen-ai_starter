@@ -26,4 +26,5 @@ A Python assignment exploring lists, tuples, sets, and dictionaries with practic
 - **Assignment 6:** `assignments/exception_handling_assignment.ipynb` - Jupyter notebook which shows different types of exception handling method in python
 - **Assignment 7:** `assignments/oop_assignment.ipynb` - Jupyter notebook which shows the basic principles and working of concepts of Object-oriented Programming (OOP)
 - **Assignment 8:** `assignments/streamlit_assignment` - Contains 4 different python files which shows the basic functionality of Streamlit to demonstrate working of python in browser (without using any advance ML libraries like pandas, numpy, etc.)
-- **Assignment 9:** `assignments/numpy_assignment` - Jupyter notebook which consists the basic functionalities and operations offered by Numpy library.
+- **Assignment 9:** `assignments/numpy_assignment.ipynb` - Jupyter notebook which consists the basic functionalities and operations offered by Numpy library.
+- **Assignment 10:** `assignments/pandas_assignment.ipynb` - Jupyter notebook which consists of basic datadrame functionalities and operations using pandas.
