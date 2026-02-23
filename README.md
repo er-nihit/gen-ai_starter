@@ -14,6 +14,7 @@ A Python assignment exploring lists, tuples, sets, and dictionaries with practic
 ✅ Assignment 09 - Completed  
 ✅ Assignment 10 - Completed  
 ✅ Assignment 11 - In Progress  
+✅ Assignment 12 - In Progress
 
 
 
@@ -25,7 +26,8 @@ A Python assignment exploring lists, tuples, sets, and dictionaries with practic
 - **Assignment 5:** `assignments/modules_assignment/main.py` - Python file which shows the working of modules and packages in python
 - **Assignment 6:** `assignments/exception_handling_assignment.ipynb` - Jupyter notebook which shows different types of exception handling method in python
 - **Assignment 7:** `assignments/oop_assignment.ipynb` - Jupyter notebook which shows the basic principles and working of concepts of Object-oriented Programming (OOP)
-- **Assignment 8:** `assignments/streamlit_assignment` - Contains 4 different python files which shows the basic functionality of Streamlit to demonstrate working of python in browser (without using any advance ML libraries like pandas, numpy, etc.)
-- **Assignment 9:** `assignments/numpy_assignment.ipynb` - Jupyter notebook which consists the basic functionalities and operations offered by Numpy library.
-- **Assignment 10:** `assignments/pandas_assignment.ipynb` - Jupyter notebook which consists of basic datadrame functionalities and operations using pandas.
-- **Assignment 11:** `assignments/matplotlib_assignment.ipynb` - Jupyter notebook which illustrates the working of maltplotlib for plotting different types of graphs 
+- **Assignment 8:** `assignments/streamlit_assignment` - Contains 4 different python files which shows the basic functionality of Streamlit to demonstrate working of python in browser (without using any advance ML libraries like pandas, numpy, etc.)  
+- **Assignment 9:** `assignments/numpy_assignment.ipynb` - Jupyter notebook which consists the basic functionalities and operations offered by Numpy library.  
+- **Assignment 10:** `assignments/pandas_assignment.ipynb` - Jupyter notebook which consists of basic datadrame functionalities and operations using pandas.  
+- **Assignment 11:** `assignments/matplotlib_assignment.ipynb` - Jupyter notebook which illustrates the working of maltplotlib for plotting different types of graphs  
+-**Assignment 12:** `assignments/seaborn_assignment` - This directory contains a jupyter notebook which shows code of basic functionality of seaborn. The directory also contains the datasets which were used for seaborn illustration  
