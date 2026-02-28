@@ -30,4 +30,4 @@ A Python assignment exploring lists, tuples, sets, and dictionaries with practic
 - **Assignment 9:** `assignments/numpy_assignment.ipynb` - Jupyter notebook which consists the basic functionalities and operations offered by Numpy library.  
 - **Assignment 10:** `assignments/pandas_assignment.ipynb` - Jupyter notebook which consists of basic datadrame functionalities and operations using pandas.  
 - **Assignment 11:** `assignments/asgn11-matplotlib/matplotlib_assignment.ipynb` - Jupyter notebook which illustrates the working of maltplotlib for plotting different types of graphs  
--**Assignment 12:** `assignments/asgn12-seaborn/seaborn_assignment` - This directory contains a jupyter notebook which shows code of basic functionality of seaborn. The directory also contains the datasets which were used for seaborn illustration  
+- **Assignment 12:** `assignments/asgn12-seaborn/seaborn_assignment` - This directory contains a jupyter notebook which shows code of basic functionality of seaborn. The directory also contains the datasets which were used for seaborn illustration  

@@ -6,5 +6,5 @@
 
 ***
 
-Dateset Used: `sales_data.csv`
-Dataset link from Kaggle: [text](https://www.kaggle.com/datasets/vinothkannaece/sales-dataset)
+Dateset Used: `sales_data.csv`  
+[Download from Kaggle](https://www.kaggle.com/datasets/vinothkannaece/sales-dataset)
