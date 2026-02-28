@@ -8,8 +8,8 @@
 ***
 
 #### Datasets:  
-- Student Performance Dataset: `student_data.csv` [Download from Kaggle](https://www.kaggle.com/datasets/devansodariya/student-performance-data)  
-- Sales Dataset: `sales_data.csv` [Download from Kaggle](https://www.kaggle.com/datasets/vinothkannaece/sales-dataset)  
-- Insurance Dataset: `insurance.csv` [Download from Kaggle](https://www.kaggle.com/datasets/vysakhvms/dataset)  
-- Home Price Dataset: `Rent.csv` [Download from Kaggle](https://www.kaggle.com/datasets/abubakarsiddiquemahi/house-rent-prediction)  
-- E-Commerce Dataset: `customer_data.csv` [Download from Kaggle](https://www.kaggle.com/datasets/somesh140/segmentation)  
+- Student Performance Dataset: `student_data.csv` [Source](https://www.kaggle.com/datasets/devansodariya/student-performance-data)  
+- Sales Dataset: `sales_data.csv` [Source](https://www.kaggle.com/datasets/vinothkannaece/sales-dataset)  
+- Insurance Dataset: `insurance.csv` [Source](https://www.kaggle.com/datasets/vysakhvms/dataset)  
+- Home Price Dataset: `Rent.csv` [Source](https://www.kaggle.com/datasets/abubakarsiddiquemahi/house-rent-prediction)  
+- E-Commerce Dataset: `customer_data.csv` [Source](https://www.kaggle.com/datasets/somesh140/segmentation)  
