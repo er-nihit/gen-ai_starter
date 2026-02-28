@@ -14,7 +14,7 @@ A Python assignment exploring lists, tuples, sets, and dictionaries with practic
 ✅ Assignment 09 - Completed  
 ✅ Assignment 10 - Completed  
 ✅ Assignment 11 - Completed  
-✅ Assignment 12 - In Progress
+✅ Assignment 12 - Completed
 
 
 
