@@ -3,7 +3,7 @@
 A Python assignment exploring lists, tuples, sets, and dictionaries with practical product management examples.
 
 ## Status
-✅ | Assignment 01 | - Completed | 
+✅ Assignment 01 - Completed
 ✅ Assignment 02 - Completed  
 ✅ Assignment 03 - Completed  
 ✅ Assignment 04 - Completed  
